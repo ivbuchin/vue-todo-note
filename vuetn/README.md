@@ -1,5 +1,3 @@
-# vuetodo
-
 ## Project setup
 ```
 npm install
