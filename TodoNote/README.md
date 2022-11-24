@@ -1,4 +1,4 @@
-To configure, follow the steps:
+To configure, **follow the steps**:
 1. Install dependencies:
 
         pip install -r requirements/dev.txt
