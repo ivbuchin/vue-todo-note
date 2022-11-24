@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+.vscode
+
+dist
+venv
+node_modules
+
+migrations
+ToDo/db.sqlite3
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+TodoNote/db.sqlite3
+TodoNote/.env
