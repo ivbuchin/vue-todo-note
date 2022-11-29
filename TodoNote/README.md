@@ -1,7 +1,7 @@
 To configure, **follow the steps**:
 1. Install dependencies:
 
-        pip install -r requirements/dev.txt
+        pip install -r requirements.txt
 
 2. Generate a SECRET KEY (for example, on the website https://djecrety.ir /) and paste it into the project settings
 3. Create and perform migrations: 
